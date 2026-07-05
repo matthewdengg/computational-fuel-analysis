@@ -1,1 +1,1 @@
-# computational-fuel-analysis
+This project focuses on exploring how molecular structure affects the physical properties of hydrocarbon fuels and biofuels through computational molecular modeling in Avogadro and data analysis using Python, specifically in Google Colab. By comparing methane, ethane, propane, butane, ethanol, and butanol, the created graphs visually depict how molecular geometry and intermolecular forces determine boiling point.
